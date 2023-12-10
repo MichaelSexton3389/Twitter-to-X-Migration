@@ -1,5 +1,5 @@
 CC=g++
-C_FLAGS=-std=c++17 -Wall -Wextra
+C_FLAGS=-g -std=c++17 -Wall -Wextra
 
 all: run_app
 

@@ -9,7 +9,7 @@ using namespace std;
 /*
 // MUST BE LARGE ENOUGH FOR DATA SET
 */
-#define M YOUR_TABLE_SIZE_VALUE_HERE
+#define M = tableSize
 
 struct XUser {
 	string username; 
@@ -43,7 +43,6 @@ public:
 	//   The following functions are to be completed by you
 	*/
     unsigned int hashFunction(string key);
-    
 	XUser* insertUser(string username, string userBio);
 
 	XUser* searchUser(string username);

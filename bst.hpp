@@ -21,6 +21,7 @@ private:
 public:
 	BST();
 	~BST();
+	void destroy(XPost* rt);
 
 	void insertPost(float time, string content, int likes);
 
