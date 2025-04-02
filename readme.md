@@ -1,4 +1,4 @@
-This is a project that I completed as a part of a course that reinforced my understanding of data structures in theory and in practice.
+This is a project that I completed as a part of a course that reinforced my understanding of data structures in theory and in practice. Because this was built out in a different repo, all the commit history was lost in order to make this public, however if you'd like to see the different versionings, reach out!
 
 
 ## Overview
